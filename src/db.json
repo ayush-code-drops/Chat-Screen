@@ -1,0 +1,49 @@
+[{
+    "id": 1,
+    "company_name": "Fadeo",
+    "designation": "Research and Development",
+    "message": "Integer non velit.",
+    "date": "6/10/2022"
+  }, {
+    "id": 2,
+    "company_name": "Avamm",
+    "designation": "Accounting",
+    "message": "Integer a nibh.",
+    "date": "5/24/2022"
+  }, {
+    "id": 3,
+    "company_name": "Rhyloo",
+    "designation": "Sales",
+    "message": "Proin eu mi.",
+    "date": "5/18/2022"
+  }, {
+    "id": 4,
+    "company_name": "Buzzdog",
+    "designation": "Human Resources",
+    "message": "Ut tellus.",
+    "date": "6/7/2022"
+  }, {
+    "id": 5,
+    "company_name": "Yodel",
+    "designation": "Training",
+    "message": "Donec ut mauris eget massa tempor convallis.",
+    "date": "5/24/2022"
+  }, {
+    "id": 6,
+    "company_name": "Dynabox",
+    "designation": "Legal",
+    "message": "Morbi quis tortor id nulla ultrices aliquet.",
+    "date": "6/8/2022"
+  }, {
+    "id": 7,
+    "company_name": "Bubblebox",
+    "designation": "Marketing",
+    "message": "Duis at velit eu est congue elementum.",
+    "date": "5/24/2022"
+  }, {
+    "id": 8,
+    "company_name": "Leexo",
+    "designation": "Training",
+    "message": "Donec ut mauris eget massa tempor convallis.",
+    "date": "6/13/2022"
+  }]

@@ -1,0 +1,86 @@
+*{
+margin: 0;
+padding: 0;
+}
+.chatApp{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.navbar{
+    border: 1px solid black;
+}
+
+.inbox{
+    border:1px solid red;
+    height:100vh;
+    overflow-y: scroll;
+}
+
+.messages{
+    border:1px solid green
+}
+
+.inboxGrey{
+  
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+.messageGrey{
+    background-color:#f5f5f5;
+    padding: 15px;
+}
+
+.inboxGrey div{
+    margin:4px
+}
+
+.allMessages{
+    background-color: #FF7A59;
+    color: white;
+    border-radius: 4px;
+    padding: 3px;
+}
+
+.unread{
+    background-color: white;
+    border-radius: 4px;
+    padding: 3px;
+}
+
+.chathead{
+  margin: 18px 45px;
+}
+
+.greybox{
+    background-color:#f5f5f5;
+    display: grid;
+    grid-template-columns: 33% 0.1% 63%;
+}
+
+.boxMaterial{
+   display: flex;
+   flex-direction: column;
+   margin: 15px 40px; 
+}
+
+.dateDiv{
+    display: flex;
+    justify-content: space-between;
+}
+
+.dateDiv p, .boxMaterial>p{
+    color: gray;
+}
+
+
+
+
+
+
+
+
+
+
